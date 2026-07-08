@@ -1,5 +1,3 @@
-
-"""I'm adding something here!"""
 """dfit.py 5/8/21 D. Candela
 Module provides a simplified user interface to the nonlinear
 least-squares fitting function scipy.optimize.curve_fit.
